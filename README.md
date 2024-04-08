@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Master Data Online](www.fuse.masterdataonline.com)
 
-- 🌱 I’m currently learning **DevOps, K8S**
+- 🌱 I’m currently learning **K8S**
 
 - 👨‍💻 All of my projects are available at [bold](https://bold.pro/my/sandeep-rana)
 
-- 💬 Ask me about **JAVA, Spring Boot, Microservices, Docker, Angular**
+- 💬 Ask me about **JAVA, Spring Boot, Microservices, Docker, Angular, Jenkins, Elasticsearch, Spring Security**
 
 - 📫 How to reach me **sandeeprana001997@gmail.com**
 
