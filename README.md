@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sandeep Rana</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A professional Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimhighrana&label=Profile%20views&color=0e75b6&style=flat" alt="aimhighrana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aimhighrana" alt="aimhighrana" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=aimhighrana" alt="aimhighrana" /></a> </p>
 
 - 🔭 I’m currently working on [Master Data Online](www.fuse.masterdataonline.com)
 
-- 🌱 I’m currently learning **DevOps , K8S**
+- 🌱 I’m currently learning **DevOps,K8S**
 
-- 👨‍💻 All of my projects are available at [https://bold.pro/my/sandeep-rana](https://bold.pro/my/sandeep-rana)
+- 👨‍💻 All of my projects are available at [bold](https://bold.pro/my/sandeep-rana)
 
-- 💬 Ask me about **JAVA , Spring Boot , Angular**
+- 💬 Ask me about **JAVA,Spring Boot,Microservices, Docker,Angular**
 
 - 📫 How to reach me **sandeeprana001997@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sandeep-rana-bb9249166/](https://www.linkedin.com/in/sandeep-rana-bb9249166/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/sandeep-rana-bb9249166/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
