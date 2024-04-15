@@ -63,13 +63,13 @@
           <circle class="gauge-base" r="56" cx="100" cy="60" stroke-width="8"></circle>
           <circle class="gauge-arc guage-arc-1" r="56" cx="100" cy="60" stroke-width="8" style="stroke-dasharray: 351.858, 351.858;"></circle>
           <text class="guage-text" x="100px" y="60px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">100</text>
-          <text class="guage-title" x="100px" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">Performance</text>
+          <text class="guage-title" x="100px" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">performance</text>
       </g>
       <g class="green" transform="translate(300,0) ">
           <circle class="gauge-base" r="56" cx="100" cy="60" stroke-width="8"></circle>
           <circle class="gauge-arc guage-arc-1" r="56" cx="100" cy="60" stroke-width="8" style="stroke-dasharray: 351.858, 351.858;"></circle>
           <text class="guage-text" x="100px" y="60px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">100</text>
-          <text class="guage-title" x="100px" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">Accessibility</text>
+          <text class="guage-title" x="100px" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">accessibility</text>
       </g>
       <g class="green" transform="translate(500,0) ">
           <circle class="gauge-base" r="56" cx="100" cy="60" stroke-width="8"></circle>
@@ -81,7 +81,7 @@
           <circle class="gauge-base" r="56" cx="100" cy="60" stroke-width="8"></circle>
           <circle class="gauge-arc guage-arc-1" r="56" cx="100" cy="60" stroke-width="8" style="stroke-dasharray: 351.858, 351.858;"></circle>
           <text class="guage-text" x="100px" y="60px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">100</text>
-          <text class="guage-title" x="100px" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">System Designing</text>
+          <text class="guage-title" x="100px" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">system-designing</text>
       </g>
       
 	</svg>
