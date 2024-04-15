@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Rana</h1>
-<h3 align="center">A professional Software Developer from India</h3>
+<h3 align="center">A professional Software Engineer from India</h3>
 
 All of my projects are lighthouse approved, always aiming for:
 <p align="center">
