@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sandeep Rana</h1>
 <h3 align="center">A professional Software Developer from India</h3>
 
+All of my projects are lighthouse approved, always aiming for:
+<p align="center">
+  <kbd><img src="https://github.com/aimhighrana/aimhighrana/blob/main/goal.svg" alt="Lighthouse score 100s"></kbd>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimhighrana&label=Profile%20views&color=0e75b6&style=flat" alt="aimhighrana" /> </p>
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=aimhighrana" alt="aimhighrana" /></a> </p>
