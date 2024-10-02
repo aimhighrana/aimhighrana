@@ -16,9 +16,9 @@ All of my projects are lighthouse approved, always aiming for:
 
 - 👨‍💻 All of my projects are available at [bold](https://bold.pro/my/sandeep-rana)
 
-- 💬 Ask me about **JAVA, Spring Boot, Microservices, Docker, Angular, Jenkins, Elasticsearch, Spring Security**
+- 💬 Ask me about **JAVA, Spring Boot, Microservices, Docker, Angular, Jenkins, Elasticsearch, Spring Security, Openshift, Spark, DQM, Spring AI, Vectore Storage**
 
-- 📫 How to reach me **sandeeprana001997@gmail.com**
+- 📫 How to reach me **sandeep.ranasoftcraft@gmail.com**
 
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/sandeep-rana-bb9249166/)
 
